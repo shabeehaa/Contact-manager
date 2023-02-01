@@ -1,0 +1,26 @@
+.Maincontainer{
+    width:700px;
+    height:300px;
+    box-shadow: 5px 10px 8px #888888;
+    border:1px solid rgb(198, 198, 198);
+    border-radius: 10px;
+
+}
+h1{
+    margin-left: 250px;
+}
+input{
+    margin-left:150px ;
+    width:400px;
+    height:30px;
+    font-size: 25px;
+    /* box-shadow: 5px 10px 8px #888888; */
+    border:1px solid rgb(198, 198, 198);
+}
+button{
+    margin-left:250px ;
+    width:150px;
+    height:40px;
+    font-size: 20px;
+    border:1px solid rgb(198, 198, 198);
+}

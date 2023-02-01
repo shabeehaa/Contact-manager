@@ -1,0 +1,35 @@
+.storecontainer{
+    width:700px;
+    /* height:300px; */
+    box-shadow: 5px 10px 8px #888888;
+    border:1px solid rgb(198, 198, 198);
+    border-radius: 10px;
+}
+.main{
+    display:flex;
+}
+.nametext{
+    display:flex;
+    border:1px solid rgb(198, 198, 198);
+    width:250px;  
+    height:40px; 
+}
+.emailtext{
+    border:1px solid  rgb(198, 198, 198);
+    width:250px; 
+    height:40px;
+}
+.editicon{
+    border:1px solid  rgb(198, 198, 198);
+    width:100px; 
+    height:40px;
+    padding-left: 40px;
+
+
+}
+.deleteicon{
+    border:1px solid  rgb(198, 198, 198);
+    width:100px; 
+    height:40px;  
+    padding-left: 40px;
+}
